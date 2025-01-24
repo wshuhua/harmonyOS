@@ -1,6 +1,7 @@
 # harmonyOS
 
-基础学习
+## 基础学习
+
 1. 开发环境构建 DevEco Studio 的使用
 2. ArkTS 语法介绍
     a. 类型和函数
@@ -28,7 +29,9 @@
 7. 应用本地数据保存
     a. 用户首选项和运作机制
     b. 首选项接口：保存、获取、键查询、持久化、删除
-进阶
+   
+## 进阶
+
 1. Stage模型
     a. AbilityStage
     b. UIAbility启动模式
@@ -65,7 +68,9 @@
 10. HarmonyOS SDK 开放能力简介
 11. 应用质量测试
 12. 鸿蒙应用/元服务上架
-HarmonyOS SDK 开放能力集
+
+## HarmonyOS SDK 开放能力集
+
 1. AppGallery Connect
     a. 如何在 AppGallery Connect 上创建应用
     b. 如何配置指纹证书
